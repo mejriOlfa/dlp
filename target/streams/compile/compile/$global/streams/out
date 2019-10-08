@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\OLFA\Downloads\dlp-test\app\controllers\HomeController.java:98:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method getId()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable a of type controllers.ImageMap[0m
+[0m[[0m[31merror[0m] [0m[0m    	System.out.println("****************"+a.getId());[0m
